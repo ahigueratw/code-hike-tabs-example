@@ -1,0 +1,22 @@
+{
+  "name": "codehike-nextjs",
+  "private": true,
+  "version": "0.8.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build"
+  },
+  "dependencies": {
+    "@code-hike/mdx": "^0.8.0",
+    "@headlessui/react": "^1.7.7",
+    "@heroicons/react": "^2.0.13",
+    "@mdx-js/loader": "2.2.1",
+    "@mdx-js/react": "^2.2.1",
+    "@next/mdx": "13.1.2",
+    "@twilio-paste/tabs": "^7.0.2",
+    "clsx": "^1.2.1",
+    "next": "13.1.2",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
